@@ -21,7 +21,11 @@
     "electron-prebuilt": "^0.36.12",
     "ftdi": "github:mmckegg/node-ftdi",
     "ndarray": "^1.0.18",
+    "ndpixels-convert": "^1.1.0",
     "pixels-canvas": "^1.0.2",
+    "pull-raf": "^1.0.1",
+    "pull-stream": "^3.4.3",
+    "rainbow-pixels": "^4.0.0",
     "require-rebuild": "^1.2.8",
     "worker-timer": "^1.0.0",
     "ws": "^1.0.1"
